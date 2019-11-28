@@ -1,0 +1,9 @@
+venv
+.idea/.gitignore
+.idea/guessingGame.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+__pycache__/course.cpython-38.pyc
+__pycache__/question.cpython-38.pyc
